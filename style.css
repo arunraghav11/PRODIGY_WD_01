@@ -1,0 +1,187 @@
+
+.navbar{
+    list-style-type: none;
+    margin:0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #d40b0b;
+    position: fixed;
+    width: 100%;
+}
+.searchbox{
+  float: right;
+  padding: 5px;
+  margin: 5px;
+  
+
+}
+
+
+
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 13px 30px;
+    text-decoration: none;
+  }
+
+  .home{
+    margin-top: 10px;
+    background-color:lemonchiffon;
+   
+  }
+  
+  li a:hover {
+    background-color: #111;
+    font-style: italic;
+  }
+
+ h2{
+  color: blue;
+ }  
+
+ p{
+  font-size: xx-large;
+  font-family: 'Times New Roman', Times, serif;
+  
+ }
+
+ .btr{
+  border: none;
+  background-color: blue;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.btr:hover{
+  background-color: lightskyblue;
+  
+}
+
+.About{
+  background-color: antiquewhite;
+}
+
+h2{
+  color: blue;
+  text-align: center;
+}
+h3{
+  color: darkblue;
+  font-size: xx-large;
+ }
+
+ .service{
+  background-color:lightgrey ;
+}
+
+ .mobileapp{
+  width: 320px;
+  border: 10px solid black;
+  padding: 20px;
+  margin: 30px;
+  display: inline-block;
+ }
+ .mobileapp:hover{
+  background-color: blue;
+ }
+
+.website{
+  width: 320px;
+  border: 10px solid black;
+  padding: 20px;
+  margin: 30px;
+  display: inline-block;
+}
+.website:hover{
+background-color: green;
+}
+
+.sellerapp{
+  width: 320px;
+  border: 10px solid black;
+  padding: 20px;
+  margin: 30px;
+  display: inline-block;
+}
+.sellerapp:hover{
+  background-color: orange;
+}
+.webpanel{
+  width: 320px;
+  border: 10px solid black;
+  padding: 20px;
+  margin: 30px;
+  display: inline-block;
+}
+.webpanel:hover{
+  background-color: brown;
+}
+.driverapp{
+  width: 320px;
+  border: 10px solid black;
+  padding: 20px;
+  margin: 30px;
+  display: inline-block;
+}
+.driverapp:hover{
+  background-color: yellow;
+}
+
+.support{
+  width: 320px;
+  border: 10px solid black;
+  padding: 20px;
+  margin: 30px;
+  display: inline-block;
+}
+.support:hover{
+  background-color: slategray;
+}
+
+
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.contact {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+footer{
+  background-color: aquamarine;
+}
